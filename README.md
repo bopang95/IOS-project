@@ -13,3 +13,7 @@
     Some defeats : I just run the game on simulator, mainly on iphone 6s plus. And the author is remained as
               Apple, because I think there is no need to change authorID. This is a simple project, just for
               learning ios.
+              
+    If there is any problem, please contact me.
+    Mail 386811796@qq.com   
+    
